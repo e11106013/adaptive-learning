@@ -258,7 +258,7 @@ mindmap
 ```mermaid
 sequenceDiagram
     participant S as 學生
-    participant L as LLM
+    participant L as LLM + MCP + KG
     participant P as 學習歷程
     participant M as 教材系統
     participant T as 教師
