@@ -15,7 +15,7 @@ commonkads/
     ├── task-agent-model.md           ← TM + AM 詳細指引
     ├── knowledge-model.md            ← KM + RM 建模指引
     └── templates/
-        └── worksheet.md             ← 完整分析工作表（可直接填寫）
+         └── worksheet.md             ← 完整分析工作表（可直接填寫）
 ```          
 
 ### 使用方式(下載至語言模型對應 skills 目錄)
