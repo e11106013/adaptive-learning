@@ -20,7 +20,7 @@ commonkads/
 
 ### 使用方式(下載至語言模型對應 skills 目錄)
 ```
-git clone <repo-url> .[claude/codex/gemini/]/skills/commonkads
+git clone <repo-url> .[claude/codex/gemini/]skills/commonkads
 ```
 
 ### 在 Claude Code / Codex / Gemini CLI 中使用 `/` 指令：
