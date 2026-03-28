@@ -12,7 +12,8 @@ git clone <repo-url> .[claude/codex/gemini/]/skills/commonkads
 
 ```
 ### 執行過程與結果
-https://github.com/e11106013/adaptive-learning/edit/main/commonkads/result.md
+[https://github.com/e11106013/adaptive-learning/edit/main/commonkads/result.md
+](https://github.com/e11106013/adaptive-learning/blob/main/commonkads/results.md)
 
 ## 目錄結構
 ```
