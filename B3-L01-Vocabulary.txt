@@ -1,0 +1,293 @@
+---
+book: 3
+lesson: 1
+level: B3-L01
+type: vocabulary
+---
+
+3
+第一課
+開學了
+School Starts
+
+I-1
+安德思
+Ān	Désī
+． a man from Honduras
+
+I-2
+羅珊蒂
+Luó	Shāndì
+． a woman from Indonesia
+
+I-3
+何雅婷
+Hé Yǎtíng
+． a woman from Taiwan
+
+I-4
+開學
+kāixué
+(Vp) (school) to start
+
+I-5
+班
+bān
+(N) class, i.e., the students (not the classroom or
+the course)
+
+I-6
+新生
+xīnshēng
+(N) new student
+
+I-7
+嚴
+yán
+(Vs) strict, stern
+
+I-8
+口試
+kǒushì
+(N) oral test
+
+I-9
+筆試
+bǐshì
+(N) written test
+
+I-10
+以外
+yǐwài
+(N) except, other than
+
+I-11
+口頭
+kǒutóu
+(Vs-attr) verbal, oral
+
+I-12
+報告
+bàogào
+(N) report
+
+I-13
+壓力
+yālì
+(N) pressure, stress
+
+I-14
+說明
+shuōmíng
+(N) instructions, explanation
+
+I-15
+清楚
+qīngchǔ
+(Vs) clear(ly)
+
+I-16
+位子
+wèizi
+(N) seat, place
+
+I-17
+旁聽
+pángtīng
+(V) to audit,to sit in (on a class)
+
+I-18
+分
+fēn
+(N) points
+
+I-19
+羨慕
+xiànmù
+(Vst) to envy
+
+I-20
+休學
+xiūxué
+(Vp-sep) to take a break from school
+
+I-21
+用功
+yònggōng
+(Vs) diligent, conscientious (as a student)
+
+I-22
+行
+xíng
+(Vs) to be all right
+
+I-23
+轉
+zhuǎn
+(V) to transfer (to a diﬀerent major)
+
+I-24
+原來
+yuánlái
+(Adv) originally
+
+I-25
+會計
+kuàijì
+(N) accounting, an accountant
+
+I-26
+熱門
+rèmén
+(Vs) highly popular
+
+I-27
+熬夜
+áoyè
+(V-sep) to stay up all night, to burn the midnight
+oil
+
+I-28
+當
+dàng
+(V) to fail a course
+
+I-29
+恐怕
+kǒngpà
+(Adv) (I am) afraid that, probably
+
+I-30
+口才
+kǒucái
+(N) speaking skills
+
+I-31
+事
+shì
+(N) issue, matter, event, thing
+
+I-32
+遲到
+chídào
+(Vp) to be late (in arrival)
+
+I-33
+差一點
+chà	yì	diǎn
+． barely, nearly, almost
+
+這樣下去
+zhèyàng	xiàqù
+． if it goes on like this
+I-34
+
+I-35
+沒辦法
+méi	bànfǎ
+． there's no way, there's nothing that can be done
+
+II-1
+獨生女
+dúshēngnǚ
+(N) only child (girl)
+
+II-2
+私立
+sīlì
+(Vs-attr) private
+
+II-3
+理想
+lǐxiǎng
+(Vs) ideal, aspired
+
+II-4
+合
+hé
+(Vst) to tally with, to match
+
+II-5
+痛苦
+tòngkǔ
+(Vs) painful
+
+II-6
+科系
+kēxì
+(N) (academic) department
+
+II-7
+放棄
+fàngqì
+(V) to give up
+
+II-8
+不管
+bùguǎn
+(Conj) no matter, regardless of
+
+II-9
+反對
+fǎnduì
+(Vst) to oppose, to be against
+
+II-10
+個性
+gèxìng
+(N) personality
+
+II-11
+活潑
+huópō
+(Vs) lively, bubbly, vivacious
+
+II-12
+外語
+wàiyǔ
+(N) foreign language
+
+II-13
+擔心
+dānxīn
+(Vst) to worry about, to fret over with
+
+II-14
+填
+tián
+(V) to ﬁll out (a form)
+
+II-15
+表
+biǎo
+(N) a form
+
+II-16
+辦
+bàn
+(V) to deal with
+
+II-17
+手續
+shǒuxù
+(N) procedures
+
+II-18
+申請
+shēnqǐng
+(V) to apply for
+
+II-19
+成績單
+chéngjī	dān
+(N) report card, transcripts
+
+II-20
+考上
+kǎoshàng
+． to test into
+
+II-21
+推薦信
+tuījiàn	xìn
+． a letter of recommendation
