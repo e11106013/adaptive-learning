@@ -1,0 +1,140 @@
+
+✦ 已為您啟動 學術研究 (Academic Research) 技能套件。
+
+ 請問您今天想從哪一部分開始？或是您可以直接提供論文 PDF/連結。
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+ > /paper Review |  https://docs.google.com/document/d/1ypZa5z7mMPJm4wcRNSr2Oi0DMFqoDxmypemKSlyzIDc/export?format=txt"                
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+✦ I will read the instructions for the Paper Review sub-skill and fetch the content of the document to perform a structured academic
+  review.
+
+
+  ✓  ReadFile  ../.../paper-review/SKILL.md
+  ✓  WebFetch 
+   Processing URLs and instructions from prompt: "Please fetch the content from this URL for an academic review: https://docs.goo…
+   → Content for 1 URL(s) processed using fallback fetch.
+
+✦ 根據您提供的論文內容，這是一份關於「構建 CSL
+  學習者適應性學習支持智能體系統」的研究計劃。這份研究將知識工程（CommonKADS）與二語習得（SLA）理論結合，嘗試解決 Bloom 的「2 Sigma
+  問題」。
+
+  我將依照 paper-review 技能的四步驟流程，為您進行深度審稿。
+
+  ---
+
+  Step 1：批判性審查（繁體中文）
+
+  論文基本資訊
+   - 標題：構建 CSL 學習者適應性學習支持智能體系統 (Constructing an Adaptive Learning Support Intelligent Agent System for CSL
+     Learners)
+   - 領域：電腦輔助語言學習 (CALL)、人工智慧教育應用 (AIEd)、二語習得 (SLA)
+   - 核心目標：將資深教師的診斷邏輯顯性化，建立一個基於 SLA 理論的「零程式碼」AI 智能體，為僑生先修部的 CSL 學習者提供適應性鷹架。
+
+  初步印象
+  這是一篇學理基礎極其紮實的研究計劃。它不滿足於僅僅「使用 AI」，而是試圖定義 AI 的「教學邏輯」與「語言學習座標系」（基於 PT
+  理論）。這種將知識工程與教學法深度結合的嘗試，在目前的 AI 論文中非常罕見且具備高度價值。
+
+  優點列表
+   1. [S1] 理論整合度極高：成功橋接了 SLA（過程性理論 PT）、教育心理學（SRL/ZPD）與知識工程（CommonKADS）。這使得 AI
+      的行為具備可解釋性，不再是隨機的黑盒輸出。
+   2. [S2] 痛點捕捉準確：精準識別了教師「有診斷能力但沒時間」與學生「有時間但沒診斷能力」的結構化矛盾。
+   3. [S3] Learner Model 的創新：提出「文本化學習者模型」，將 PT 理論的各級語法特徵作為 AI 監測的座標，解決了 LLM
+      缺乏語言發展階段意識的問題。
+
+  缺點列表
+   1. [W1] 湧現基準 (Emergence Criterion) 的執行難度：PT 理論強調的是結構的「出現」而非準確性。LLM 的訓練本質是追求「正確」，如何確保
+      AI 在 Prompt 控制下能容忍並支持「正在發展但錯誤」的中介語（Interlanguage），而不直接給出正確答案，需要更細緻的 Negative
+      Constraints。
+   2. [W2]
+      教師負擔回流風險：組件三要求教師每週審核對話日誌並更新模型。這雖然保證了品質，但在學生數量增加時，可能重新造成教師的時間瓶頸。
+   3. [W3] 華語 PT 階層的完備性：文中提到華語 PT 階層尚在發展中。若底層座標系不完整，AI 的診斷邏輯可能會產生偏差。
+
+  疑問列表
+   1. [Q1]：系統如何處理「Prompt Leakage」？若學生反覆索取答案，智能體在長期對話中是否能維持「絕不給答案」的原則？
+   2. [Q2]：對於 SRL（自我調節學習）的量化，除了對話日誌分析，是否考慮引入回溯性訪談或更具體的元認知指標？
+
+  初步判斷
+  Clear Accept (Top 10%)。這是一篇具備示範意義的 AI+教育研究，其理論深度遠超一般的應用型論文。
+
+  ---
+
+  Step 2：分數預測（繁體中文）
+
+  各維度評分
+
+  ┌────────────┬────────────┬────────────────────────────────────────────────────────────────────┐
+  │ 維度       │ 分數 (1-5) │ 簡要理由                                                           │
+  ├────────────┼────────────┼────────────────────────────────────────────────────────────────────┤
+  │ 貢獻新穎性 │ 5          │ 結合 CommonKADS 與 PT 理論構建 AI 智能體的思路非常前衛。           │
+  │ 寫作清晰度 │ 5          │ 結構嚴謹，圖表清晰（特別是圖一的邏輯架構）。                       │
+  │ 實驗嚴謹性 │ 4          │ 研究方法設計詳盡，但實作中的「湧現」判讀機制仍有驗證空間。         │
+  │ 評估完整性 │ 4          │ 涵蓋了學習成效、SRL 與質性分析，唯對 AI 效能的「對抗性測試」略少。 │
+  │ 方法健全性 │ 5          │ 基於成熟的知識工程模型與心理語言學理論，邏輯自洽。                 │
+  └────────────┴────────────┴────────────────────────────────────────────────────────────────────┘
+
+  整體分數預測
+   - Overall Score: 9 / 10
+   - Confidence: 4 / 5 (熟悉 CSL 與 AIEd 領域)
+
+  分數推理
+  該研究不僅提出了技術方案，更解決了「AI
+  教學透明度」的問題。雖然在實踐上對教師的依賴度較高（Human-in-the-loop），但作為研究型原型，其設計的精緻度與理論深度足以支撐其在頂會
+  發表。
+
+  ---
+
+  Step 3：要點精煉（繁體中文）
+
+  核心優點
+   1. 多學科深度交融：將知識工程方法論 (CommonKADS) 應用於隱性教學知識的抽取，並以 PT 理論作為 AI
+      的「導航地圖」，為適應性學習提供了科學基礎。
+
+  重大問題（Major Concerns）
+   1. AI 行為的約束性 (Behavioral Constraint)：需在文中更具體說明如何透過 Prompt Engineering 確保 LLM
+      不會因為學生的挫折感或反覆詢問而「洩漏」正確答案，這直接影響 SRL 的培養目標。
+   2. 華語 PT 階層的實作定義：建議附錄或在文中更具體列出本研究選用的「華語語法發展座標」，以增加研究的可重複性。
+
+  次要問題（Minor Concerns）
+   1. 效率優化：建議探討使用「分析型 Agent」輔助教師進行初步的日誌標記，以減輕教師在「組件三」中的手動負擔。
+
+  ---
+
+  Step 4：正式審稿（英文）
+
+  Summary
+  The paper proposes a novel framework for an "Adaptive Learning Support Intelligent Agent" (ALS-IA) tailored for Chinese as a Second
+  Language (CSL) learners. By leveraging CommonKADS for expert knowledge engineering and Processability Theory (PT) for linguistic
+  developmental mapping, the authors create a "Zero-Code" AI agent. The system aims to bridge the gap between teacher diagnosis and
+  student self-regulated learning (SRL) through a textual learner model and structured pedagogical scaffolding.
+
+  Strengths
+   1. Sophisticated Theoretical Grounding: The integration of PT and CommonKADS provides a rigorous foundation for AI-driven adaptive
+      scaffolding, moving beyond generic LLM implementations.
+   2. Pedagogical Significance: The focus on fostering SRL rather than providing direct answers addresses a critical concern in
+      AI-assisted education.
+   3. Clarity and Methodology: The research design is well-structured, with clearly defined components and a robust multi-method
+      evaluation plan (RQ1-RQ4).
+
+  Weaknesses
+   1. Control of "Emergence Criterion": Implementing the PT "emergence criterion" requires the AI to recognize and value specific
+      interlanguage patterns. There is a risk that the LLM, inherent to its training on standard language, may default to error
+      correction if not strictly constrained.
+   2. Scalability of Teacher Involvement: The "Component 3" feedback loop relies heavily on weekly manual audits by teachers. This
+      creates a potential workload bottleneck for larger cohorts.
+   3. Linguistic Specification: While PT is used as the coordinate system, the specific hierarchy for Mandarin Chinese is still
+      evolving. The study would benefit from a more explicit definition of the grammar points selected for the learner model
+      coordinates.
+
+  Questions for Authors
+   1. How does the agent handle persistent requests for answers from students? What specific prompt strategies are used to maintain
+      the "no-answer" behavioral norm during long-context drift?
+   2. Could you elaborate on the "Textual Learner Model" format? How sensitive is the LLM to small updates in this textual
+      description?
+
+  Rating
+   - Overall: 9/10 (Strong Accept)
+   - Confidence: 4/5
+
+  Justification
+  This research represents a high-standard integration of domain expertise and AI technology. It addresses the "black box" nature of
+  AI tutoring by infusing it with established SLA theories. The theoretical contribution to CALL is significant.
